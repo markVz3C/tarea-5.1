@@ -1,0 +1,27 @@
+.hambre{
+    text-align: center;
+    
+}
+
+.row{
+    width: 600px;
+    height: 200px;
+    background-color: #e75454;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#blue{
+    background-color: rgb(38, 38, 153);
+}
+
+#yelo{
+    background-color: rgb(42, 148, 121);
+}
+
+.img{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+}
